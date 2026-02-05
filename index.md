@@ -1,9 +1,9 @@
-![Picture of me|400](../Assets/MePic.png)
+<img src="../Assets/MePic.png" width="400" />
 
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am 18 years old and I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
 
 ### Cat Media and Gourmet Technologies
-![CMGT Screenshot|500](../Assets/CMGTScreenshot.png)
+<img src="../Assets/CMGTScreenshot.png" width="500" />
 This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
 
 [Read more ->](../) ==UPDATE LINK WHEN ITS DONE==
