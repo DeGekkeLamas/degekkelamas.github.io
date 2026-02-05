@@ -8,6 +8,6 @@ The grid is not allowed to have any pre-made connections in it, so if when gener
 The grid also had to make sure the connections required for the dish are actually possible to make, in order to accomplish this, ingredients that are part of the dish are made to be more likely to spawn. It also uses an algorithm to check if all the needed connections are actually present. \
 
 
-Another thing I was responsible was the implementation of the art assets. Because I am an engineer, but also follow artist classes, I know how to work with assets and implement them properly. For the UI, I implemented the sprites for the UI elements and made the different elements, so the designer could easily arrange the pieces in the way they should be. 
+Another thing I was responsible was the implementation of the art assets. Because I am an engineer, but also follow artist classes, I know how to work with assets and implement them properly. For the UI, I implemented the sprites for the UI elements and made the different elements, so the designer could easily arrange the pieces in the way they should be.\
 
 %% I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score.  %%
