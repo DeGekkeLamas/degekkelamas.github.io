@@ -5,7 +5,7 @@ Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am 18 years old a
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="500" />\
 This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
 
-[Read more ->](../Projects/CatMediaAndGourmetTechnologies.md)\
+[Read more ->](../Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
 ### Dining Dungeons
