@@ -12,5 +12,5 @@
 <font color="#d0d0d0">The grid also had to make sure the connections required for the dish are actually possible to make, in order to accomplish this, ingredients that are part of the dish are made to be more likely to spawn. It also uses an algorithm to check if all the needed connections are actually present.</font>\
 
 <font color="#d0d0d0">Another thing I was responsible was the implementation of the art assets. Because I am an engineer, but also follow artist classes, I know how to work with assets and implement them properly. For the UI, I implemented the sprites for the UI elements and made the different elements, so the designer could easily arrange the pieces in the way they should be.</font>
-
+\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
