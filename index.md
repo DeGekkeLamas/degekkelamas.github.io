@@ -3,16 +3,18 @@
 </head>
 
 <img src="../Assets/MePic.png" width="400" />\
+<h1 class="normalText">
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
+</h1>
 
-### Cat Media and Gourmet Technologies
+## Cat Media and Gourmet Technologies
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
 This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
 
 [Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
-### Dining Dungeons
+## Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
 Can be divided into the generation algorithm, the shaders used in it and the architecture of the gameplay scripts. Project not completely finished yet. 
 
@@ -25,19 +27,19 @@ Can be divided into the generation algorithm, the shaders used in it and the arc
 [Read more ->](../Projects/DiningDungeons)\
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
 
-### Planet generation
+## Planet generation
 This project I made alone, I worked on terrain generation to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture. To make this I had to research principles of terrain generation and how to refine noise into being usable. 
 
 [Read more ->](../Projects/PlanetGeneration)\
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
 
-### The Devils Gambit
+## The Devils Gambit
 This game was made for the 3rd project, project Kickstart, for it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. 
 
 [Read more ->](../Projects/TheDevilsGambit)\
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
 
-### Rise and Fall
+## Rise and Fall
 This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. 
 
 [Read more ->](../Projects/RiseAndFall)\
