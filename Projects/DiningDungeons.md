@@ -1,4 +1,5 @@
 <head>
+	<title>Dining Dungeons</title>
     <link rel = "stylesheet" href="../style.css">
 </head>
 # <font color="#d0d0d0">Dining Dungeons</font>
