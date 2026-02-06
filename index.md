@@ -21,12 +21,10 @@ This game was made for the 2nd group project, project New Horizons, and it is th
 
 ## Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
-Can be divided into the generation algorithm, the shaders used in it and the architecture of the gameplay scripts. Project not completely finished yet. 
+This is an individual project I made on my own, it is quite a large project and as a result, I learned a lot from this one:
 
-**Dungeon generation:** The dungeons you pass through are generated procedurally by an algorithm I made to generate the rooms, their assets and the objects inside them. 
-
-**Shaders:** The project contains various selfmade shaders, like the cellshade one that's on most of the objects in the game, the wave and splat effects, the shader to stretch objects based on their velocity and the projectile chart line (it's a quad with a line rendered onto it by shader).
-
+**Dungeon generation:** The dungeons you pass through are generated procedurally by an algorithm I made to generate the rooms, their assets and the objects inside them.\
+**Shaders:** The project contains various selfmade shaders, like the cell-shade one that's on most of the objects in the game, the wave and splat effects, the shader to stretch objects based on their velocity and the projectile chart line (it's a quad with a line rendered onto it by shader).\
 **Architecture:** the gameplay scripts are made to be modular and easily reusable, enemies are easily modifiable as their attack patterns can be set by dragging in a different pattern, their pathfinding is separate from the enemy itself and can also be easily modified.  
 
 
