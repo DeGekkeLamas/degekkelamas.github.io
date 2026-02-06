@@ -1,4 +1,5 @@
 # Dining Dungeons
+<img src="../Assets/DiDu/DiDuScreenshot.png" width="500" />\
 Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. 
 This game is composed of various topics together.\
 First of all, it uses algorithms to generate the dungeon you play in. This algorithm works by generating the bounds of the dungeon, and splitting it into rooms until there are no rooms left to split. It then places doors at areas where rooms intersect. After this it uses a BFS-based search to ensure all rooms can be reached, and unreachable ones are removed.\
@@ -13,5 +14,10 @@ Finally, the game also uses self-made shaders, using both HLSL and ShaderGraph. 
 The code for lighting calculations is placed in a .hlsl file, with the shader files including it to use its functions for lighting. This way I can avoid code duplication and make it easier to reuse and maintain.\
 The cellshade effect is made by rounding off the calculated lighting to the nearest fraction of the amount of loops set in the material settings. The function for this is also in the Lighting.hlsl file, this way special shaders that should still have the cellshade effect, such as the VelocityStretch shader, can also use it.\
 The splat shader used for puddles dropped by enemies is made using a ShaderGraph, it uses perlin noise and refines it to get the shape of the puddle, using the position as offset, it then uses a calculation similar to that of the cellshading shader to achieve the layered effect. The wave effect spawning by some weapons and enemies also uses this shader, but applied to a cyllinder or sphere instead of a quad. \ 
+
+<video autoplay loop muted playsinline width="100%">
+    <source src="../Assets/DiDu/DiDuVideoExplosion.mp4" type="video/mp4">
+</video>
+Video of an explosive item being used, showing multiple shaders in action. 
 
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
