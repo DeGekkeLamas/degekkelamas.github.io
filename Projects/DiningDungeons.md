@@ -1,5 +1,5 @@
 <head>
-    <link rel = "stylesheet" href="style.css">
+    <link rel = "stylesheet" href="../style.css">
 </head>
 # <font color="#d0d0d0">Dining Dungeons</font>
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
