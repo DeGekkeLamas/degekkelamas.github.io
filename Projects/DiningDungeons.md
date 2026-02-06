@@ -1,6 +1,6 @@
 # Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
-Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. The development of this game was composed of many topics together.\
+Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. The development of this game was composed of many topics together.
 
 It's quite a large project, but that means I also learned a lot from it. I learned principles behind shaders and their math, including the applications of that math in different contexts, how to solve problems using efficient algorithms and how to make code easy to reuse and maintain. 
 
