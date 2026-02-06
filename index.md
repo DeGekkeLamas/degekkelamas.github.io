@@ -10,6 +10,7 @@
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
 <font color="#d0d0d0">This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. </font>
 
+
 [Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
@@ -23,11 +24,13 @@
 
 <font color="#d0d0d0">**Architecture:** the gameplay scripts are made to be modular and easily reusable, enemies are easily modifiable as their attack patterns can be set by dragging in a different pattern, their pathfinding is separate from the enemy itself and can also be easily modified.  </font>
 
+
 [Read more ->](../Projects/DiningDungeons)\
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
 
 ## <font color="#d0d0d0">Planet generation</font>
 <font color="#d0d0d0">This project I made alone, I worked on terrain generation to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture. To make this I had to research principles of terrain generation and how to refine noise into being usable. </font>
+
 
 [Read more ->](../Projects/PlanetGeneration)\
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
@@ -35,11 +38,13 @@
 ## <font color="#d0d0d0">The Devils Gambit</font>
 <font color="#d0d0d0">This game was made for the 3rd project, project Kickstart, for it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. </font>
 
+
 [Read more ->](../Projects/TheDevilsGambit)\
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
 
 ## <font color="#d0d0d0">Rise and Fall</font>
 <font color="#d0d0d0">This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. </font>
+
 
 [Read more ->](../Projects/RiseAndFall)\
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
