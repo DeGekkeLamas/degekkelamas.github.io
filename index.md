@@ -1,9 +1,4 @@
 <head>
-    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/669a4d5e10.js" crossorigin="anonymous"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-<title>Page Title</title>
     <link rel = "stylesheet" href="style.css">
 </head>
 
