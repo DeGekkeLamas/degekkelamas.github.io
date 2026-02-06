@@ -1,6 +1,11 @@
 <head>
 	<title>My portfolio</title>
-    <link rel = "stylesheet" href="style.css">
+	<style>
+	  body {
+	    background-color: #131313;
+	    color: #d0d0d0;
+	  }
+	</style>
 </head>
 <img src="../Assets/MePic.png" width="400" />\
 <font color="#d0d0d0">Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
