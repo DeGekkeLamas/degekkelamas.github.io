@@ -9,3 +9,5 @@ The grid also had to make sure the connections required for the dish are actuall
 
 
 Another thing I was responsible was the implementation of the art assets. Because I am an engineer, but also follow artist classes, I know how to work with assets and implement them properly. For the UI, I implemented the sprites for the UI elements and made the different elements, so the designer could easily arrange the pieces in the way they should be.
+
+[Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
