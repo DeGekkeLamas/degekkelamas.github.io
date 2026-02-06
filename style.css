@@ -2,13 +2,13 @@
    Typography
 ========================= */
 .icon-white {
-    color: white;
+    color: #ffffff;
     font-size: clamp(1rem, 32vmin, 32px);
 }
 
 span {
     font-family: 'Source Code Pro', monospace;
-    color: white;
+    color: #ffffff;
     font-weight: bold;
     font-size: clamp(1rem, 50vmin, 50px);
 }
@@ -16,14 +16,14 @@ span {
 .headerText {
     text-align: center;
     font-family: 'Source Code Pro', monospace;
-    color: white;
+    color: #ffffff;
     font-weight: bold;
     font-size: clamp(1rem, 50vmin, 50px);
 }
 
 .normalText {
     font-family: 'Source Code Pro', monospace;
-    color: white;
+    color: #ffffff;
     font-size: clamp(1rem, 20vmin, 20px);
 }
 
