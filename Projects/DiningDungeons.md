@@ -34,6 +34,6 @@ The splat shader used for puddles dropped by enemies is made using a ShaderGraph
 </video>
 Video of an explosive item being used, showing multiple shaders in action.
 
-[Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons)\ 
+[Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons)\
 [Public repository ->](https://github.com/DeGekkeLamas/Algorithms-Shaders) 
 
