@@ -79,7 +79,7 @@ span {
     top: 0;
     position: sticky;
     overflow: hidden;
-    background: #28282b;
+    background: #ffffff;
     border-bottom: #131313 10px solid;
     padding: 20px 10px;
 }
@@ -119,7 +119,7 @@ span {
    Banner
 ========================= */
 .banner {
-    background: #2b2b28;
+    background: #ffffff;
     margin-top: 0px;
 }
 
@@ -145,7 +145,7 @@ span {
     .header {
         position: relative;
         overflow: hidden;
-        background-color: #28282b;
+        background-color: #ffffff;
         padding: 20px 10px;
     }
 }
