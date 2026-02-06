@@ -1,6 +1,6 @@
 <head>
 	<title>Cat Media and Gourmet Technologies</title>
-    <link rel = "stylesheet" href="style.css">
+    <link rel = "stylesheet" href="../style.css">
 </head>
 # <font color="#d0d0d0">Cat Media and Gourmet Technologies</font>
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="500" />\
