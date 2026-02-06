@@ -1,7 +1,8 @@
 # Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
-Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. 
-This game is composed of various topics together.\
+Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. The development of this game was composed of many topics together.\
+
+It's quite a large project, but that means I also learned a lot from it. I learned principles behind shaders and their math, including the applications of that math in different contexts, how to solve problems using efficient algorithms and how to make code easy to reuse and maintain. 
 
 <video autoplay loop muted playsinline width="100%">
     <source src="../Assets/DiDu/DiDuVideoDungeonGeneration.mp4" type="video/mp4">
@@ -14,14 +15,16 @@ On top of this I had to make sure the code in the project is easily modifiable a
 The code is very modular, and scripts like the movement and attack patterns of enemies can easily be swapped out.\
 Models and views are separated, with events being used for presenters of data to update their display. Events are used widely throughout the project to avoid coupling where it isn't needed. This way it is easier to modify and add to existing code. 
 
-Finally, the game also uses self-made shaders, using both HLSL and ShaderGraph. Examples of this are the cellshade applied to most objects in the scene, the projectile chart that appears when holding a lobbed item, the vertex shader that stretches projectiles and the splat that appears when an enemy is defeated.\
+Finally, the game also uses self-made shaders, using both HLSL and ShaderGraph. Examples of this are the cell-shade applied to most objects in the scene, the projectile chart that appears when holding a lobbed item, the vertex shader that stretches projectiles and the splat that appears when an enemy is defeated.\
 The code for lighting calculations is placed in a .hlsl file, with the shader files including it to use its functions for lighting. This way I can avoid code duplication and make it easier to reuse and maintain.\
-The cellshade effect is made by rounding off the calculated lighting to the nearest fraction of the amount of loops set in the material settings. The function for this is also in the Lighting.hlsl file, this way special shaders that should still have the cellshade effect, such as the VelocityStretch shader, can also use it.\
-The splat shader used for puddles dropped by enemies is made using a ShaderGraph, it uses perlin noise and refines it to get the shape of the puddle, using the position as offset, it then uses a calculation similar to that of the cellshading shader to achieve the layered effect. The wave effect spawning by some weapons and enemies also uses this shader, but applied to a cyllinder or sphere instead of a quad. 
+The cell-shade effect is made by rounding off the calculated lighting to the nearest fraction of the amount of loops set in the material settings. The function for this is also in the Lighting.hlsl file, this way special shaders that should still have the cell-shade effect, such as the VelocityStretch shader, can also use it.\
+The splat shader used for puddles dropped by enemies is made using a ShaderGraph, it uses Perlin noise and refines it to get the shape of the puddle, using the position as offset, it then uses a calculation similar to that of the cell-shading shader to achieve the layered effect. The wave effect spawning by some weapons and enemies also uses this shader, but applied to a cylinder or sphere instead of a quad. 
 
 <video autoplay loop muted playsinline width="100%">
     <source src="../Assets/DiDu/DiDuVideoExplosion.mp4" type="video/mp4">
 </video>
 Video of an explosive item being used, showing multiple shaders in action. 
 
-[Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
+[Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons)\ 
+[Public repository ->](https://github.com/DeGekkeLamas/Algorithms-Shaders) 
+
