@@ -15,6 +15,9 @@ Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at S
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
 This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
 
+Things I learned:
+- Defining the rules an algorithm should work with and translating those rules into code. 
+- 
 
 [Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
@@ -27,13 +30,26 @@ This is an individual project I made on my own, it is quite a large project and 
 **Shaders:** The project contains various selfmade shaders, like the cell-shade one that's on most of the objects in the game, the wave and splat effects, the shader to stretch objects based on their velocity and the projectile chart line (it's a quad with a line rendered onto it by shader).\
 **Architecture:** the gameplay scripts are made to be modular and easily reusable, enemies are easily modifiable as their attack patterns can be set by dragging in a different pattern, their pathfinding is separate from the enemy itself and can also be easily modified.  
 
+Things I learned:
+- Applying design patterns to make code easily reusable and modifiable.
+- Using event-based architecture to decouple code.
+- How to work with algorithms like BFS, DFS, flood-fill and marching squares.
+- Advanced debugging techniques to properly debug an algorithm.
+- Creating and modifying textures using C#, HLSL and ShaderGraph. 
+- Applying 3D math for both visual effects and gameplay.
 
 [Read more ->](../Projects/DiningDungeons)\
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
 
 ## Planet generation
-This project I made alone, I worked on terrain generation to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture. To make this I had to research principles of terrain generation and how to refine noise into being usable. 
+<img src="../Assets/PG/PG2Planets.png" width="750" />\
+For this project I worked on terrain generation, to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture and added 2D noise to give the texture more variety. To make this I had to research principles of terrain generation and how to refine noise into being usable. 
 
+Things I learned:
+- Generating meshes in code.
+- Creating and refining 2D and 3D noises.
+- Turning noise into terrain.
+- Procedurally texturing generated meshes. 
 
 [Read more ->](../Projects/PlanetGeneration)\
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
