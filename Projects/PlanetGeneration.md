@@ -26,10 +26,6 @@ After having generated the model for a planet, I had to texture the planets and 
 
 For this project I worked on terrain generation, to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture and added 2D noise to give the texture more variety. To make this I had to research principles of terrain generation and how to refine noise into being usable.\
 <img src="../Assets/PG/PGPlanetUnshaded.png" height="250" /> <img src="../Assets/PG/PGPlanetShaded.png" height="250" />\
-As this texture looks quite bland, I decided to add 2D noise to the texture. The picture above on the left shows without any shading or added noise, the one on the right shows a planet with added noise and shading. 
+As this texture looks quite bland, I decided to add noise to the texture. The picture above on the left shows without any shading or added noise, the one on the right shows a planet with added noise and shading. This is also done using 3D noise, but the key differences are that is uses an HLSL library for it instead of a C# one, as it's a shader. This noise is not refined, as it is not needed in this situation and would be unneeded calculations. 
 
-Things I learned:
-- Generating meshes in code.
-- Creating and refining 2D and 3D noises.
-- Turning noise into terrain.
-- Procedurally texturing generated meshes. 
+After having learned and applied all of these steps, I successfully make a system to procedurally generate planets and texture. From this I learned a lot about how to work with noise-based procedural generation. 
