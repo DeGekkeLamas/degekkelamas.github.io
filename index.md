@@ -11,17 +11,6 @@
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
 
 
-## Cat Media and Gourmet Technologies
-<img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
-This game was made for the 2nd group project, project New Horizons, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
-
-Things I learned:
-- Defining the rules an algorithm should work with and translating those rules into code. 
-- 
-
-[Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
-[Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
-
 ## Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
 This is an individual project I made on my own, it is quite a large project and as a result, I learned a lot from this one:
@@ -40,6 +29,18 @@ Things I learned:
 
 [Read more ->](../Projects/DiningDungeons)\
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
+
+## Cat Media and Gourmet Technologies
+<img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
+This game was made as part of a group project, and it is the project I am the happiest with, as I had fun working on it together with the rest of the team and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
+
+Things I learned:
+- Creating an algorithm for grid-based generation. 
+- Defining the rules an algorithm should work with.
+- Translating the rules an algorithm should work with into code. 
+
+[Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
+[Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
 ## Planet generation
 <img src="../Assets/PG/PG2Planets.png" width="750" />\

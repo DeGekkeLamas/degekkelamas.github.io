@@ -9,9 +9,9 @@
 </head>
 # <font color="#d0d0d0">Planet Generation</font>
 <img src="../Assets/PG/PG2Planets.png" width="500" />\
-This project was made for a subject where the goal was to make a portfolio item to present. I decided to make procedural planets for it, as procedurally generated terrain is very interesting to me. Before immediately going into 3D terrains, I first tried 2D terrain generation to get familiar with it./
-<img src="../Assets/PG/PGIsland.png" width="350" />
+This project was made for a subject where the goal was to make a portfolio item to present. I decided to make procedural planets for it, as procedurally generated terrain is very interesting to me. Before immediately going into 3D terrains, I first tried 2D terrain generation to get familiar with it.
 
+<img src="../Assets/PG/PGIsland.png" width="350" />\
 To start, I did research on how games usually handle terrain generation. Using this research, I first made the island in the picture above. This island is far simpler than the target end-product and serves as practice for me to understand the principles.
 
 First I had to make noise for the terrain to base its height off. For the planets, I had to use 3D noise due to the planet being round. I could have tried to project the sphere into a 2D map, but this would result in noticeable seams, so I decided to use 3D noise.\
