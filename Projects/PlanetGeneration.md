@@ -8,7 +8,7 @@
 	</style>
 </head>
 # <font color="#d0d0d0">Planet Generation</font>
-<img src="../Assets/PG/PG2Planets.png" width="500" />\
+<img src="../Assets/PG/PG2Planets.png" width="750" />\
 This project was made for a subject where the goal was to make a portfolio item to present. I decided to make procedural planets for it, as procedurally generated terrain is very interesting to me. Before immediately going into 3D terrains, I first tried 2D terrain generation to get familiar with it.
 
 <img src="../Assets/PG/PGIsland.png" width="350" />\
@@ -29,3 +29,5 @@ For this project I worked on terrain generation, to procedurally generate planet
 As this texture looks quite bland, I decided to add noise to the texture. The picture above on the left shows without any shading or added noise, the one on the right shows a planet with added noise and shading. This is also done using 3D noise, but the key differences are that is uses an HLSL library for it instead of a C# one, as it's a shader. This noise is not refined, as it is not needed in this situation and would be unneeded calculations. 
 
 After having learned and applied all of these steps, I successfully make a system to procedurally generate planets and texture. From this I learned a lot about how to work with noise-based procedural generation. 
+
+[Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)

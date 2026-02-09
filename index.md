@@ -38,6 +38,7 @@ Things I learned:
 - Creating an algorithm for grid-based generation. 
 - Defining the rules an algorithm should work with.
 - Translating the rules an algorithm should work with into code. 
+- Gained more experience in group-based working. 
 
 [Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
@@ -56,8 +57,14 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
 
 ## The Devils Gambit
-This game was made for the 3rd project, project Kickstart, for it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. 
+<img src="../Assets/TDG/TDGPlatforming.png" width="750" />\
+This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. For it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. 
 
+Things I learned:
+- Implementation of 2D animations.
+- Making an animation controller for player animations. 
+- Making an easily modifiable tileset. 
+- Gained more experience in group-based working. 
 
 [Read more ->](../Projects/TheDevilsGambit)\
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
@@ -65,6 +72,8 @@ This game was made for the 3rd project, project Kickstart, for it I mainly worke
 ## Rise and Fall
 This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. 
 
+Things I learned:
+- 
 
 [Read more ->](../Projects/RiseAndFall)\
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
