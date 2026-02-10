@@ -74,9 +74,15 @@ Things I learned:
 This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. 
 
 Things I learned:
-- 
+- Troubleshooting issues with a rig. 
+- 3D animation implementation.
 
 [Read more ->](../Projects/RiseAndFall)\
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
 
 
+## ****
+
+[Github profile ->](https://github.com/DeGekkeLamas)
+[LinkedIn profile ->](https://www.linkedin.com/in/kars-van-den-toorn-891015331/)
+[Itch.io profile ->](https://degekkelamas.itch.io)
