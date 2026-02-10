@@ -62,6 +62,7 @@ This game was made as part of a group project where the goal was to make a verti
 
 Things I learned:
 - Implementation of 2D animations.
+- Making a proper player controller
 - Making an animation controller for player animations. 
 - Making an easily modifiable tileset. 
 - Gained more experience in group-based working. 
