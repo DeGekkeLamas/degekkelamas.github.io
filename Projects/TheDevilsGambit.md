@@ -20,7 +20,7 @@ For the player I also implemented animations. I made animation files from the ch
 
 In addition to this, I also implemented the tiles created by the artist into the tileset, so they could easily be placed in levels. The tiles can easily be replaced if needed, by simply overriding the original file, making it easy to test out different colors or textures for the tiles.
 
-<img src="../Assets/TDG/TDGCardPlacementValid.png" height="150" /> <img src="../Assets/TDG/TDGCardPlacementInvalid.png" height="150" /> <img src="../Assets/TDG/TDGCardPlacementMoving.png" height="150" />\
+<img src="../Assets/TDG/TDGCardPlacementValid.png" height="170" /> <img src="../Assets/TDG/TDGCardPlacementInvalid.png" height="170" /> <img src="../Assets/TDG/TDGCardPlacementMoving.png" height="170" />\
 I also made a couple of the effects the placed platforms give, and made the system for placing them and previewing the placement, with moving platforms also displaying their range of movement.
 
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
