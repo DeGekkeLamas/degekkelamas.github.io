@@ -81,8 +81,8 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
 
 
-## ****
+___
 
-[Github profile ->](https://github.com/DeGekkeLamas)
-[LinkedIn profile ->](https://www.linkedin.com/in/kars-van-den-toorn-891015331/)
+[GitHub profile ->](https://github.com/DeGekkeLamas)\
+[LinkedIn profile ->](https://www.linkedin.com/in/kars-van-den-toorn-891015331/)\
 [Itch.io profile ->](https://degekkelamas.itch.io)
