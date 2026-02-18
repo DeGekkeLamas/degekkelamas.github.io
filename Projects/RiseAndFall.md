@@ -8,10 +8,11 @@
 	</style>
 </head>
 # Rise And Fall
-This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. 
+<img src="../Assets/RAF/RAFGameplay.png" width="750" />\
+This game was made for a gamejam, with a time-limit of 48 hours. The theme of the jam was "Future". Our idea for it was a game where you travel forward in time, to make trees grow so you can use them as platforms. For the gamejam I was in a team of 6 people in total, with 1 other engineer. 
 
-Things I learned:
-- 
+For the game I mainly worked on gameplay elements. I made the player controller and implemented the rig for it. As I hadn't implemented a 3D rig before, I had to learn how to work with it first and learn how to troubleshoot with rigs. 
 
-[Read more ->](../Projects/RiseAndFall)\
+I also made the mechanic to forward and backward time, which works by disabling the current tree object and enabling the object that belongs to the tree 1 stage older or younger. 
+
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)

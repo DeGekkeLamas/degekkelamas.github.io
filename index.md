@@ -10,7 +10,6 @@
 <img src="../Assets/MePic.png" width="400" />\
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
 
-
 ## Dining Dungeons
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
 This is an individual project I made on my own, it is quite a large project and as a result, I learned a lot from this one:
@@ -71,7 +70,8 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
 
 ## Rise and Fall
-This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented animations for the player character, which I hadn't worked with before so I had to learn how to work with them. Later in the Devils Gambit project I also implemented animations, but in a better way as I had more experience with it by then, and I had more time to make it good. 
+<img src="../Assets/RAF/RAFGameplay.png" width="750" />\
+This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented 3D animations for the player character, which I hadn't worked with before so I had to learn how to work with them. 
 
 Things I learned:
 - Troubleshooting issues with a rig. 

@@ -9,7 +9,7 @@
 </head>
 # The Devils Gambit
 <img src="../Assets/TDG/TDGPlatforming.png" width="750" />\
-This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. The game we made is a platformer where the player needs to place platforms that have special effects. 
+This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. The game we made is a platformer where the player needs to place platforms that have special effects. We had a total of 3 weeks to work on it, and for the project I was in a team of 6 people in total, with 1 other engineer. 
 
 I worked on the player controller and its mechanics. For movement, the player checks if there are colliders in the direction it wants to move in, using a boxcast. For jumping it uses a simiar system, except it checks the terrain normal to check if the jump would be valid. This way it's not possible to jump up while near or inside walls, which would be possible if the terrain normal did not get checked. If the playings jumps while in the air and next to a wall, the player will walljump. For this the same mechanics are used. 
 
