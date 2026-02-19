@@ -75,7 +75,7 @@ This game was made for a gamejam, with a time-limit of 48 hours. For it I worked
 
 Things I learned:
 - Troubleshooting issues with a rig. 
-- 3D animation implementation.
+- implementation of 3D animations.
 
 [Read more ->](../Projects/RiseAndFall)\
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
