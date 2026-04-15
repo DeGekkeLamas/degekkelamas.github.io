@@ -80,7 +80,7 @@ Things I learned:
 [Read more ->](../Projects/RiseAndFall)\
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
 
-# Room Decorator
+## Room Decorator
 <img src="../Assets/RD/RDRoomView.png" width="750" />\
 This project was made for me to learn more about creating systems to create and save data. In the game you can arrange a room by placing furniture inside. With the save and load buttons you can export and import save files. These files are saved to a location specified by the user, because of this, I made the system resistant to potential errors that might arise as a result of actions like selecting a wrong and incompatible file for example. 
 
