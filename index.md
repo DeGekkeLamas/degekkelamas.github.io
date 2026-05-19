@@ -55,6 +55,21 @@ Things I learned:
 [Read more ->](../Projects/PlanetGeneration)\
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
 
+## Boids engine
+<img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
+This individual project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
+
+Things I learned:
+- Coding in C++. 
+- Working with OpenGL.
+- Deepened knowledge of concepts in 3D math. 
+- Usage of compute shaders to reduce workload. 
+- Usage of spacial partitioning to reduce workload. 
+- Testing and benchmarking performance of code. 
+
+[Read more ->](../Projects/BoidsEngine)\
+[GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki) 
+
 ## The Devils Gambit
 <img src="../Assets/TDG/TDGPlatforming.png" width="750" />\
 This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. For it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. 
@@ -91,21 +106,6 @@ Things I learned:
 
 [Read more ->](../Projects/RoomDecorator)\
 [Itch.io page ->](https://degekkelamas.itch.io/roomdecorator)
-
-## Boids engine
-<img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
-This individual project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
-
-Things I learned:
-- Coding in C++. 
-- Working with OpenGL.
-- Deepened knowledge of concepts in 3D math. 
-- Usage of compute shaders to reduce workload. 
-- Usage of spacial partitioning to reduce workload. 
-- Testing and benchmarking performance of code. 
-
-[Read more ->](../Projects/BoidsEngine)\
-[GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki) 
 
 ___
 

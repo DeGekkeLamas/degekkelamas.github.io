@@ -28,6 +28,6 @@ The third implementation uses a compute shader to calculate the boids on the GPU
 
 I recorded performance of these implementations during tests using a tool to write performance data to a file and documented the results, which can be seen in the [GitHub wiki](https://github.com/DeGekkeLamas/AdvRendering/wiki), which shows graphs made from recorded data and explains the results. 
 
-[GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki) 
-[GitHub repository engine ->](https://github.com/DeGekkeLamas/RenderingEngines) 
+[GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki)\
+[GitHub repository engine ->](https://github.com/DeGekkeLamas/RenderingEngines)\
 [GitHub repository documentation ->](https://github.com/DeGekkeLamas/AdvRendering) 
