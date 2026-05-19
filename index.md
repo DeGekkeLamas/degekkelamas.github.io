@@ -92,6 +92,20 @@ Things I learned:
 [Read more ->](../Projects/RoomDecorator)\
 [Itch.io page ->](https://degekkelamas.itch.io/roomdecorator)
 
+## Boids engine
+<img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
+This project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
+
+Things I learned:
+- Coding in C++. 
+- Working with OpenGL.
+- Deepened knowledge of concepts in 3D math. 
+- Usage of compute shaders to reduce workload. 
+- Usage of spacial partitioning to reduce workload. 
+- Testing and benchmarking performance of code. 
+
+[Read more ->](../Projects/BoidsEngine)\
+[GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki) 
 
 ___
 
