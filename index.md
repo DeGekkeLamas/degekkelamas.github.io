@@ -94,7 +94,7 @@ Things I learned:
 
 ## Boids engine
 <img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
-This project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
+This individual project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
 
 Things I learned:
 - Coding in C++. 
