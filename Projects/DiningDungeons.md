@@ -8,6 +8,7 @@
 	</style>
 </head>
 # Dining Dungeons
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
 Dining Dungeons is a game I made as a personal project for school, and in the game you go through procedurally generated dungeons, collecting items, defeating enemies and completing quests. The development of this game was composed of many topics together.
 

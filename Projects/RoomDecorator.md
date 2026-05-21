@@ -8,6 +8,7 @@
 	</style>
 </head>
 # Room Decorator
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/RD/RDRoomView.png" width="750" />\
 
 I made this project in order to learn more about making systems to save complex data, where Unity's UserPrefs will not suffice. The game I created allows you to decorate a room by placing furniture in it and has options to save and load your room. This saving is done by exporting it as a JSON file to a location specified by the user. To load back a save, the game lets the user open a file from a specified location.\

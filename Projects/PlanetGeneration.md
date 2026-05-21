@@ -8,6 +8,7 @@
 	</style>
 </head>
 # Planet Generation
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/PG/PG2Planets.png" width="750" />\
 This project was made for a subject where the goal was to make a portfolio item to present. I decided to make procedural planets for it, as procedurally generated terrain is very interesting to me. Before immediately going into 3D terrains, I first tried 2D terrain generation to get familiar with it.
 

@@ -8,6 +8,7 @@
 	</style>
 </head>
 # The Devils Gambit
+<sup>Unity C#, group project</sup>\
 <img src="../Assets/TDG/TDGPlatforming.png" width="750" />\
 This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. The game we made is a platformer where the player needs to place platforms that have special effects. We had a total of 3 weeks to work on it, and for the project I was in a team of 6 people in total, with 1 other engineer. 
 

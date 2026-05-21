@@ -8,6 +8,7 @@
 	</style>
 </head>
 # Cat Media and Gourmet Technologies
+<sup>Unity C#, group project</sup>\
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
 This game was made as part of a group project, and it is the project I am the happiest with, as I had fun working on it and it's the most complete as a game. The game is a cooking game where you make dishes for customers by collecting ingredients on a grid where you have to match 3 in a row. I worked on the generation of this grid containing the ingredients. We had a total of 3 weeks to work on it, and for the project I was in a team of 6 people in total, with 1 other engineer. 
 

@@ -11,6 +11,7 @@
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
 
 ## Dining Dungeons
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
 This is an individual project I made on my own, it is quite a large project and as a result, I learned a lot from this one:
 
@@ -30,6 +31,7 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/dining-dungeons) 
 
 ## Cat Media and Gourmet Technologies
+<sup>Unity C#, group project</sup>\
 <img src="../Assets/CMGT/CMGTScreenshot.png" width="750" />\
 This game was made as part of a group project, and it is the project I am the happiest with, as I had fun working on it together with the rest of the team and it's the most complete as a game. I mainly worked on the algorithm for generating the matching grid, connecting systems together and implementing assets and code for the customers and score. 
 
@@ -43,6 +45,7 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
 ## Planet generation
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/PG/PG2Planets.png" width="750" />\
 For this project I worked on terrain generation, to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture and added 2D noise to give the texture more variety. To make this I had to research principles of terrain generation and how to refine noise into being usable. 
 
@@ -56,6 +59,7 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
 
 ## Boids engine
+<sup>OpenGL C++, individual project</sup>\
 <img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
 This individual project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
 
@@ -71,6 +75,7 @@ Things I learned:
 [GitHub wiki ->](https://github.com/DeGekkeLamas/AdvRendering/wiki) 
 
 ## The Devils Gambit
+<sup>Unity C#, group project</sup>\
 <img src="../Assets/TDG/TDGPlatforming.png" width="750" />\
 This game was made as part of a group project where the goal was to make a vertical slice of a game as prototype. For it I mainly worked on the player controller and animation implementation, UI elements and some of the card effects (both me and the other engineer worked on those) and card visual when placing. 
 
@@ -85,6 +90,7 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/thedevilsgambit)
 
 ## Rise and Fall
+<sup>Unity C#, gamejam</sup>\
 <img src="../Assets/RAF/RAFGameplay.png" width="750" />\
 This game was made for a gamejam, with a time-limit of 48 hours. For it I worked on the gameplay elements, like the player controller and being able to forward/rewind time, I also implemented 3D animations for the player character, which I hadn't worked with before so I had to learn how to work with them. 
 
@@ -96,6 +102,7 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/riseandfall)
 
 ## Room Decorator
+<sup>Unity C#, individual project</sup>\
 <img src="../Assets/RD/RDRoomView.png" width="750" />\
 This project was made for me to learn more about creating systems to create and save data. In the game you can arrange a room by placing furniture inside. With the save and load buttons you can export and import save files. These files are saved to a location specified by the user, because of this, I made the system resistant to potential errors that might arise as a result of actions like selecting a wrong and incompatible file for example. 
 

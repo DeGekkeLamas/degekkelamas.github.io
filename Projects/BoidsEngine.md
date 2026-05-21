@@ -8,6 +8,7 @@
 	</style>
 </head>
 # Boids Engine
+<sup>OpenGL C++, individual project</sup>\
 <img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
 This project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine. I implemented a Transform class used for the positions of the camera and objects placed in the scene. This Transform makes use of a matrix to store its data. From this I learned a lot about working with matrices and the values inside them, in addition to learning more about other 3D math concepts as well. 
 
