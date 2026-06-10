@@ -1,5 +1,5 @@
 <head>
-	<title>Rise And Fall</title>
+	<title>Room Decorator</title>
 	<style>
 	  body {
 	    background-color: #131313;
