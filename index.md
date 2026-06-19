@@ -10,6 +10,15 @@
 <img src="../Assets/MePic.jpg" width="400" />\
 Hi, I'm Kars van den Toorn and welcome to my portfolio page! I am a student at Saxion, studying CMGT. There I have taken the role of engineer, with artist as secondary role. Below you can see various projects I have worked on. 
 
+___
+
+[GitHub profile ->](https://github.com/DeGekkeLamas)\
+[LinkedIn profile ->](https://www.linkedin.com/in/kars-van-den-toorn-891015331/)\
+[Itch.io profile ->](https://degekkelamas.itch.io)\
+[Artstation profile ->](https://www.artstation.com/degekkelamas)
+
+___
+
 ## Dining Dungeons
 <sup>Unity C#, individual project</sup>\
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
@@ -115,7 +124,3 @@ Things I learned:
 [Itch.io page ->](https://degekkelamas.itch.io/roomdecorator)
 
 ___
-
-[GitHub profile ->](https://github.com/DeGekkeLamas)\
-[LinkedIn profile ->](https://www.linkedin.com/in/kars-van-den-toorn-891015331/)\
-[Itch.io profile ->](https://degekkelamas.itch.io)
