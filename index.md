@@ -17,6 +17,8 @@ ___
 [Itch.io profile ->](https://degekkelamas.itch.io)\
 [Artstation profile ->](https://www.artstation.com/degekkelamas)
 
+[Email me ->](mailto:karsvdtoorn@gmail.com)
+
 ___
 
 ## Dining Dungeons
