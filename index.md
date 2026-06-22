@@ -26,7 +26,8 @@ ___
 [Boids Engine](https://degekkelamas.github.io/#boids-engine)\
 [The Devils Gambit](https://degekkelamas.github.io/#the-devils-gambit)\
 [Rise and Fall](https://degekkelamas.github.io/#rise-and-fall)\
-[Room Decorator](https://degekkelamas.github.io/#room-decorator)
+[Room Decorator](https://degekkelamas.github.io/#room-decorator)\
+[Maya Plugins](https://degekkelamas.github.io/#maya-plugins)
 
 ___
 ## Dining Dungeons
@@ -132,5 +133,20 @@ Things I learned:
 
 [Read more ->](../Projects/RoomDecorator)\
 [Itch.io page ->](https://degekkelamas.itch.io/roomdecorator)
+
+___
+## Maya Plugins
+<sup>Maya MEL, individual project</sup>
+<video autoplay loop muted playsinline width="85%">
+    <source src="../Assets/MP/MPVidScale.mp4" type="video/mp4">
+</video>
+For this project, I made a collection of scripts that can be used in Maya for general utility. These scripts are made in MEL, Maya's scripting language. They are freely available for anyone to download and use. 
+
+Things I learned:
+- Using code to add onto an already existing program. 
+- Writing scripts for Maya. 
+
+[Read more ->](https://degekkelamas.github.io/Projects/MayaPlugins)\
+[Download and installation guide ->](https://github.com/DeGekkeLamas/MayaPlugins/)
 
 ___
