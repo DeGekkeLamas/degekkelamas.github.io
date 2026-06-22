@@ -20,7 +20,15 @@ ___
 [Email me ->](mailto:karsvdtoorn@gmail.com)
 
 ___
+[Dining Dungeons](https://degekkelamas.github.io/#dining-dungeons)\
+[Cat Media and Gourmet Technologies](https://degekkelamas.github.io/#cat-media-and-gourmet-technologies)\
+[Planet Generation](https://degekkelamas.github.io/#cat-media-and-gourmet-technologies)\
+[Boids Engine](https://degekkelamas.github.io/#boids-engine)\
+[The Devils Gambit](https://degekkelamas.github.io/#the-devils-gambit)\
+[Rise and Fall](https://degekkelamas.github.io/#rise-and-fall)\
+[Room Decorator](https://degekkelamas.github.io/#room-decorator)
 
+___
 ## Dining Dungeons
 <sup>Unity C#, individual project</sup>\
 <img src="../Assets/DiDu/DiDuScreenshot.png" width="750" />\
@@ -55,7 +63,7 @@ Things I learned:
 [Read more ->](/Projects/CatMediaAndGourmetTechnologies)\
 [Itch.io page ->](https://degekkelamas.itch.io/catmediaandgourmettechnologies)
 
-## Planet generation
+## Planet Generation
 <sup>Unity C#, individual project</sup>\
 <img src="../Assets/PG/PG2Planets.png" width="750" />\
 For this project I worked on terrain generation, to procedurally generate planets using 3D noise. I also textured the planets generated using a shader, using the steepness of the terrain for the texture and added 2D noise to give the texture more variety. To make this I had to research principles of terrain generation and how to refine noise into being usable. 
@@ -69,7 +77,7 @@ Things I learned:
 [Read more ->](../Projects/PlanetGeneration)\
 [Itch.io page ->](https://degekkelamas.itch.io/planet-explorer)
 
-## Boids engine
+## Boids Engine
 <sup>OpenGL C++, individual project</sup>\
 <img src="../Assets/BE/BEBoidSwarm.png" width="750" />\
 This individual project is an engine made using C++ and OpenGL, using a primitive engine as starting point. I implemented many basic features into the engine, such as camera movement, loading different objects and post-processing. I used this engine to implement the boids algorithm, using various implementations which have been tested against each other and documented in a wiki. 
