@@ -15,7 +15,7 @@
 For this project, I made a collection of scripts that can be used in Maya for general utility. These scripts are made in MEL, Maya's scripting language. 
 
 <img src="../Assets/MP/MPLlamaMenu.png" width="350" />\
-The scripts are made to be a handy tool that's easily accessible. In order to do that I made them accessible via a shelf in the UI, that has sections for all different.\
+The scripts are made to be a handy tool that's easily accessible. In order to do that I made them accessible via a shelf in the UI, that has sections for all different.
 
 <video autoplay loop muted playsinline width="75%">
     <source src="../Assets/MP/MPVidRecolor.mp4" type="video/mp4">
